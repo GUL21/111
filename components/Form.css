@@ -1,0 +1,126 @@
+body
+{
+	background: #E5E5E5;
+}
+
+.firstDiv
+{
+	position: absolute;
+	left: 10.73%;
+	right: 65.1%;
+	top: 11.85%;
+	bottom: 69.48%;
+	background: #FFFFFF;
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	width: 300px;
+}
+
+h5
+{
+	margin-left: 50px;
+}
+
+form
+{
+	margin-left: 50px;
+}
+
+.activeLabel
+{
+	width: 100%;
+	background-color: #F1FCFF;
+}
+
+img
+{
+	margin-left: 50%;
+}
+
+.switch
+{
+	margin-left: 45%;
+	display: flex;
+}
+
+.switch div
+{
+	border: 1px solid;
+	background-color: white;
+	padding: 20px 45px;
+}
+
+.switch > div > a
+{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.switch div:hover
+{
+	background-color: #2196F3;
+	color: white;
+}
+
+.switch > div > a:hover
+{
+	color: white;
+}
+
+.list
+{
+	border: 1px solid;
+	width: 460px;
+	height: 200px;
+	background-color: white;
+	margin-left: 45%;
+	padding-right: 20px;
+	margin-bottom: 1.5%;
+}
+
+.s7
+{
+	position: relative;
+	top: 20px;
+	left: 100px;
+
+}
+
+.price
+{
+	margin-left: 40px;
+	font-size: 40px;
+	font-weight: bold;
+	color: #2196F3;
+	margin-top: 10px;
+	position: absolute;
+}
+
+.first-options
+{
+	list-style: none;
+	margin-top: 10%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.second-options
+{
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+}
+
+.text
+{
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.grey-text
+{
+	color: silver;
+	margin-left: 40%;
+	font-size: 20px;
+}
